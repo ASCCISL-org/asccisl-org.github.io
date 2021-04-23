@@ -2,9 +2,7 @@
 date: '2021-4-23'
 title: 'No to speed, yes to ram: Why CiCI will never be quick, but will be the more versatile.'
 slug: 'no-to-speed-yes-to-ram'
-layout: post
 permalink: '/articles/revolutions/no-to-speed-yes-to-ram/'
-theme: jekyll-theme-minimal
 ---
 
 # No to speed, yes to ram: Why CiCI will never be quick, but *will be* the more versatile.
