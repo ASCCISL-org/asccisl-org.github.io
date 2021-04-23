@@ -1,3 +1,8 @@
+---
+date: '2021-4-23'
+title: 'No to speed, yes to ram: Why CiCI will never be quick, but will be the more versatile.'
+---
+
 # No to speed, yes to ram: Why CiCI will never be quick, but *will be* the more versatile.
 
 _By **[that mar](https://github.com/that-mar)**._
