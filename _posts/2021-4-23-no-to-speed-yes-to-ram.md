@@ -3,7 +3,7 @@ date: '2021-4-23'
 title: 'No to speed, yes to ram: Why CiCI will never be quick, but will be the more versatile.'
 slug: 'no-to-speed-yes-to-ram'
 layout: post
-permalink: 'https://asccisl-org.github.io/articles/revolutions/no-to-speed-yes-to-ram/'
+permalink: '/articles/revolutions/no-to-speed-yes-to-ram/'
 ---
 
 # No to speed, yes to ram: Why CiCI will never be quick, but *will be* the more versatile.
