@@ -19,3 +19,4 @@ AS<font color="#13D3BD">CCIS</font>L, or as the colored letters encourage: CiCIS
 
 While writing code that isn't from *curly bracket to curly bracket* but **line-by-line**, I also try to implement some new ideas: 
 
+- [No to speed, yes to ram: Why CiCI will never be quick, but *will be* the more versatile.](https://asccisl-org.github.io/articles/revolutions/no-to-speed-yes-to-ram/)
